@@ -20,7 +20,7 @@ This project analyzes hospital waiting lists from 2018 to 2021 using Power BI.
 
 ## Dashboard Views
 - **Dashboard:** Summary of key metrics and waiting list trends.
-![Hospital Waiting List Dashboard](Dashboard.PNG)
+![Hospital Waiting List Dashboard](Dashboard.jpg)
 
 - **Detailed View:** Granular analysis by specialty, age profile, and patient category.
 
