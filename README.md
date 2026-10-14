@@ -5,6 +5,7 @@ This project analyzes hospital waiting lists from 2018 to 2021 using Power BI.
 
 - **Inpatient:** Patients admitted to a hospital for treatment.
 - **Outpatient:** Patients receiving medical treatment without hospital admission.
+  
 - **Day Case:** Patients admitted for a single day.
 - **Inpatient (length of stay):** Patients admitted for more than one day.
 
@@ -20,9 +21,12 @@ This project analyzes hospital waiting lists from 2018 to 2021 using Power BI.
 
 ## Dashboard Views
 - **Dashboard:** Summary of key metrics and waiting list trends.
+  
 ![Hospital Waiting List Dashboard](Dashboard.jpg)
 
 - **Detailed View:** Granular analysis by specialty, age profile, and patient category.
+
+![Hospital Waiting List Detail](Detailed_View.jpg)
 
 ## Tools
 - Power BI
